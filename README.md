@@ -10,26 +10,11 @@
 
 ## 🛠 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=sql&logoColor=white)
-![](https://img.shields.io/badge/Code-C-00599C?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-![](https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&logoColor=white)
-
-![](https://img.shields.io/badge/OS-Linux-lightgrey?style=flat&logo=linux&logoColor=black)
-
-![](https://img.shields.io/badge/Tool-Git-orange?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-black?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Editor-PyCharm-green?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)
-
-![](https://img.shields.io/badge/Tool-Figma-purple?style=flat&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Tool-Tableau-lightblue?style=flat&logo=tableau&logoColor=white)
-
+__programming language__: Python | Java | JavaScript | TypeScript | C | C# | SQL
+__databases__: PostgreSQL, MySQL, MongoDB
+__operating system__: Linux
+__Development tools__: Git, IntelliJ IDEA, PyCharm, VSCode
+__Design and Visualization__: Figma, Tableau
 
 ## 📚 Current Projects
 
