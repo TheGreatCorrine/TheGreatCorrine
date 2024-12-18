@@ -10,11 +10,11 @@
 
 ## 🛠 Technologies & Tools
 
-__programming language__: Python | Java | JavaScript | TypeScript | C | C# | SQL
-__databases__: PostgreSQL, MySQL, MongoDB
-__operating system__: Linux
-__Development tools__: Git, IntelliJ IDEA, PyCharm, VSCode
-__Design and Visualization__: Figma, Tableau
+- __programming language__: Python | Java | JavaScript | TypeScript | C | C# | SQL
+- __databases__: PostgreSQL, MySQL, MongoDB
+- __operating system__: Linux
+- __Development tools__: Git, IntelliJ IDEA, PyCharm, VSCode
+- __Design and Visualization__: Figma, Tableau
 
 ## 📚 Current Projects
 
