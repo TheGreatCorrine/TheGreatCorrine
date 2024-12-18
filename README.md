@@ -19,6 +19,7 @@
 ## 📚 Current Projects
 
 - 💞️**Educational software**: I am collaborating with the Rotman School of Management, University of Toronto, to develop an educational trading application for all __5k__ Rotman Students (including bachelors and masters).
+  
 - 💰**Payroll Software**: I am designing an internal payroll software for Pair Genomics.
   
 ## 📈 Stats
