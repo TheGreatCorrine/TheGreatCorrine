@@ -8,9 +8,9 @@
 
 ## 🛠 Technologies & Tools
 
-- __programming language__: Python | Java | JavaScript | TypeScript | C | C# | SQL
+- __programming language__: Python | Java | C | C# | JavaScript | TypeScript | HTML/CSS | SQL
 - __databases__: PostgreSQL, MySQL, MongoDB
-- __operating system__: Linux
+- __frameworks&libraries__: Next.ns, React.js, Node.js, Express.js, Spring Boot, Flask, Numpy, Pandas
 - __Development tools__: Git, IntelliJ IDEA, PyCharm, VSCode
 - __Design and Visualization__: Figma, Tableau
 
