@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 # Hello, I'm Corrine! 👋
 ![University of Toronto](https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white)
 ![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
