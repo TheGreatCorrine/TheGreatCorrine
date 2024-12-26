@@ -1,9 +1,8 @@
 # Hello, I'm Corrine! 👋 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=1000&color=2990BE&width=435&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
-
 ![University of Toronto](https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white)
 ![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=1000&color=2990BE&width=435&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
 - 👩 My Pronouns are __She/Her__.
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
