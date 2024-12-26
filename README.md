@@ -24,6 +24,9 @@
 
 ![Corrine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatCorrine&show_icons=true&theme=default)
 
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatCorrine&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
