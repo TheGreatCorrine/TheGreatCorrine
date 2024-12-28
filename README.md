@@ -10,7 +10,7 @@
 
 - __programming language__: Python | Java | C | C# | JavaScript | TypeScript | HTML/CSS | SQL
 - __databases__: PostgreSQL, MySQL, MongoDB
-- __frameworks&libraries__: Next.ns, React.js, Node.js, Express.js, Spring Boot, Flask, Numpy, Pandas
+- __frameworks&libraries__: Next.js, React.js, Node.js, Express, Spring Boot, Flask, Numpy, Pandas
 - __Development tools__: Git, IntelliJ IDEA, PyCharm, VSCode
 - __Design and Visualization__: Figma, Tableau
 
