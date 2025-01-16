@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatCorrine&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-## 📫 How to reach me
+## 📫 Contact me
 
 - **Email**: [Corrine's Email](mailto:your-email@domain.com)
 - **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
