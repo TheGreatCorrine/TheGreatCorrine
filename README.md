@@ -1,4 +1,4 @@
-<table style="border:none; border-collapse:collapse; width:300%;">
+<table style="border:none; border-collapse:collapse; width:100%;">
   <tr>
     <td valign="top" style="border:none;">
 
@@ -13,7 +13,7 @@
 - 💻 My major is __Computer Science__.
 
 </td>
-<td valign="top" style="border:none; text-align:right; width:400px;">
+<td valign="top" style="border:none; text-align:right; width:300px;">
 
 <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
