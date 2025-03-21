@@ -26,6 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
+
 - __programming language__: Python | Java | C | C# | JavaScript | TypeScript | HTML/CSS | SQL
 - __databases__: PostgreSQL, MySQL, MongoDB
 - __frameworks&libraries__: Next.js, React.js, Node.js, Express, Spring Boot, Flask, Numpy, Pandas
