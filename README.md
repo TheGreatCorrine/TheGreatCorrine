@@ -15,7 +15,7 @@
 </td>
 <td valign="top" style="border:none; width:30%; text-align:right;">
 
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" style="width:100%; max-width:250px;">
+<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" style="width:100%; max-width:100px;">
 
 </td>
   </tr>
