@@ -1,6 +1,6 @@
-<table style="border: none; border-collapse: collapse;">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="border: none; vertical-align: top;">
+    <td valign="top">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
 
@@ -12,14 +12,39 @@
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
 
-    </td>
-    <td style="border: none; vertical-align: top; text-align: right;">
+  </td>
+  <td valign="top" align="right">
 
 <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
-    </td>
+  </td>
   </tr>
 </table>
+
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
+
+# Hello, I'm Corrine! 👋  
+![University of Toronto](https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white)
+![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
+
+- 👩 My Pronouns are __She/Her__.
+- 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
+- 💻 My major is __Computer Science__.
+
+</div>
+
+<div>
+
+<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
+
+</div>
+
+</div>
 
 
 
