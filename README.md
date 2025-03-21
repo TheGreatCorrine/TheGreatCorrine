@@ -12,6 +12,8 @@
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
 
+<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
+
 ## 🛠 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,17 +47,6 @@
   
 - 💰 **Payroll Software**: I am designing an internal payroll software for Re:Pair Genomics.
 
-## 📫 Contact me
-
-- **Email**: [Corrine's Email](mailto:your-email@domain.com)
-- **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-
-</td>
-
-<td valign="top" align="right" style="border:none; width:40%;">
-
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
-
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
@@ -65,6 +56,11 @@
 ## 📈 Stats
 
 ![Corrine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatCorrine&show_icons=true&theme=default)
+
+## 📫 Contact me
+
+- **Email**: [Corrine's Email](mailto:your-email@domain.com)
+- **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
 
 </td>
   </tr>
