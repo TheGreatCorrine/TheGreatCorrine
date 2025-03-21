@@ -1,6 +1,6 @@
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="border:none; border-collapse:collapse;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border:none; width:60%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
 
@@ -11,47 +11,6 @@
 - 👩 My Pronouns are __She/Her__.
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
-
-  </td>
-  <td valign="top" align="right">
-
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
-
-  </td>
-  </tr>
-</table>
-
-
-
-
-
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-<div style="flex: 1;">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
-
-<h1>Hello, I'm Corrine! 👋</h1>
-
-![University of Toronto](https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white)
-![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
-
-- 👩 My Pronouns are __She/Her__.
-- 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
-- 💻 My major is __Computer Science__.
-
-</div>
-
-<div>
-
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
-
-</div>
-
-</div>
-
-
 
 ## 🛠 Technologies & Tools
 <div align="left">
@@ -76,15 +35,26 @@
 
 - __programming language__: Python | Java | C | C# | JavaScript | TypeScript | HTML/CSS | SQL
 - __databases__: PostgreSQL, MySQL, MongoDB
-- __frameworks&libraries__: Next.js, React.js, Node.js, Express, Spring Boot, Flask, Numpy, Pandas
+- __frameworks & libraries__: Next.js, React.js, Node.js, Express, Spring Boot, Flask, Numpy, Pandas
 - __Development tools__: Git, IntelliJ IDEA, PyCharm, VSCode
 - __Design and Visualization__: Figma, Tableau
 
 ## 📚 Current Projects
 
-- 💞️**Educational software**: I am collaborating with the Rotman School of Management, University of Toronto, to develop an educational trading application for all __5k__ Rotman Students (including bachelors and masters).
+- 💞️ **Educational software**: I am collaborating with the Rotman School of Management, University of Toronto, to develop an educational trading application for all __5k__ Rotman Students (including bachelors and masters).
   
-- 💰**Payroll Software**: I am designing an internal payroll software for Re:Pair Genomics.
+- 💰 **Payroll Software**: I am designing an internal payroll software for Re:Pair Genomics.
+
+## 📫 Contact me
+
+- **Email**: [Corrine's Email](mailto:your-email@domain.com)
+- **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+
+</td>
+
+<td valign="top" align="right" style="border:none; width:40%;">
+
+<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
@@ -96,21 +66,6 @@
 
 ![Corrine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatCorrine&show_icons=true&theme=default)
 
-<!-- This is a comment in Markdown 
-
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatCorrine&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-## 📫 Contact me
-
-- **Email**: [Corrine's Email](mailto:your-email@domain.com)
-- **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-
-<!-- This is a comment in Markdown -->
-
-<!---
-TheGreatCorrine/TheGreatCorrine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</td>
+  </tr>
+</table>
