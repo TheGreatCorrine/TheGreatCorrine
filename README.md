@@ -3,9 +3,8 @@
 ![University of Toronto](https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white)
 ![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
 
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
-- 👩 My Pronouns are __She/Her__.
+- 👩 My Pronouns are __She/Her__. <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
 
