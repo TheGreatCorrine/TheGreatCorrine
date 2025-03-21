@@ -13,7 +13,7 @@
 - 💻 My major is __Computer Science__.
 
 </td>
-<td valign="top" align="right" style="border:none; width:40%;">
+<td valign="top" style="border:none; width:40%; text-align:right;">
 
 <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
@@ -22,7 +22,7 @@
 </table>
 
 ## 🛠 Technologies & Tools
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
