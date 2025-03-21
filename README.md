@@ -1,6 +1,6 @@
 <table style="border:none; border-collapse:collapse; width:100%;">
   <tr>
-    <td valign="top" style="border:none; width:auto;">
+    <td valign="top" style="border:none; width:60%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 - 💻 My major is __Computer Science__.
 
 </td>
-<td valign="top" style="border:none; width:400px; text-align:right;">
+<td valign="top" style="border:none; width:40%; text-align:right;">
 
 <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
