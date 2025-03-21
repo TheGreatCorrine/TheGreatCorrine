@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top">
+    <td style="border: none; vertical-align: top;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
 
@@ -13,14 +12,15 @@
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
 
-  </td>
-  <td valign="top" align="right">
+    </td>
+    <td style="border: none; vertical-align: top; text-align: right;">
 
 <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
-  </td>
+    </td>
   </tr>
 </table>
+
 
 
 ## 🛠 Technologies & Tools
