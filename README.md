@@ -13,7 +13,7 @@
 - 💻 My major is __Computer Science__.
 
 </td>
-<td valign="top" style="border:none; text-align:right; width:300px;">
+<td valign="top" style="border:none; text-align:left; width:300px;">
 
 <img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
 
