@@ -1,4 +1,4 @@
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:300%;">
   <tr>
     <td valign="top" style="border:none;">
 
