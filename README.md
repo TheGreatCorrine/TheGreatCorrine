@@ -12,6 +12,15 @@
 - 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
 - 💻 My major is __Computer Science__.
 
+</td>
+<td valign="top" align="right" style="border:none; width:40%;">
+
+<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
+
+</td>
+  </tr>
+</table>
+
 ## 🛠 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -59,12 +68,3 @@
 
 - **Email**: [Corrine's Email](mailto:your-email@domain.com)
 - **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-
-</td>
-<td valign="top" align="right" style="border:none; width:40%;">
-
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
-
-</td>
-  </tr>
-</table>
