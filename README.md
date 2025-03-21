@@ -19,7 +19,8 @@
 
 </td>
   </tr>
-</table>
+  <tr>
+    <td colspan="2" style="border:none;">
 
 ## 🛠 Technologies & Tools
 <div>
@@ -68,3 +69,7 @@
 
 - **Email**: [Corrine's Email](mailto:your-email@domain.com)
 - **LinkedIn**: [Corrine's LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+
+</td>
+  </tr>
+</table>
