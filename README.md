@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" style="border:none; width:40%; text-align:left;">
 
-<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" width="400">
+<img src="https://github.com/TheGreatCorrine/TheGreatCorrine/raw/main/code.gif" style="width:100%; max-width:400px;">
 
 </td>
 <td valign="top" style="border:none; width:60%;">
