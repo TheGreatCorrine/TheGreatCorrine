@@ -1,16 +1,44 @@
-<table style="border:none; border-collapse:collapse; width:100%;">
-  <tr>
-    <td valign="top" style="border:none; width:60%;">
+<td valign="top" style="border:none; width:60%;">
+  <div style="
+    font-family: Arial, sans-serif;
+    color: #333; 
+    line-height: 1.4;
+  ">
+    <!-- 这里是“打字”SVG，可以保留也可以去掉 -->
+    <p>
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer" 
+        alt="Typing SVG" 
+        style="max-width: 100%;"
+      />
+    </p>
+    
+    <!-- 用 <h1> 做标题，而不是 # Markdown语法 -->
+    <h1 style="font-size: 1.8em; color: #2990BE; margin: 0.2em 0;">
+      Hello, I'm Corrine! 👋
+    </h1>
+    
+    <!-- 用 img 标签插入badge -->
+    <p style="margin: 0.5em 0;">
+      <img 
+        src="https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white" 
+        alt="University of Toronto" 
+        style="vertical-align: middle;"
+      />
+      <img 
+        src="https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white" 
+        alt="Computer Science Major" 
+        style="vertical-align: middle; margin-left:5px;"
+      />
+    </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&letterSpacing=0.5px&pause=800&color=2990BE&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+am+Corrine;A+full-stack+student+developer)](https://git.io/typing-svg)
-
-# Hello, I'm Corrine! 👋  
-![University of Toronto](https://img.shields.io/badge/-University%20of%20Toronto-blue?style=flat&logo=University-of-Toronto&logoColor=white)
-![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
-
-- 👩 My Pronouns are __She/Her__.
-- 🎓 I'm a third-year student at the University of Toronto, Class of 2027.
-- 💻 My major is __Computer Science__.
+    <ul style="list-style: none; padding: 0; margin: 0.5em 0;">
+      <li>👩 My Pronouns are <strong>She/Her</strong>.</li>
+      <li>🎓 I'm a third-year student at the University of Toronto, Class of 2026.</li>
+      <li>💻 My major is <strong>Computer Science</strong>.</li>
+    </ul>
+  </div>
+</td>
 
 </td>
     <td valign="top" style="border:none; width:60%; text-align:right;">
