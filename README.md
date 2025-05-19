@@ -9,7 +9,7 @@
 ![Computer Science Major](https://img.shields.io/badge/Computer%20Science%20Major-007396?style=flat&logo=java&logoColor=white)
 
 - 👩 My Pronouns are __She/Her__.
-- 🎓 I'm a third-year student at the University of Toronto, Class of 2026.
+- 🎓 I'm a third-year student at the University of Toronto, Class of 2027.
 - 💻 My major is __Computer Science__.
 
 </td>
