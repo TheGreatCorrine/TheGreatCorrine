@@ -49,3 +49,5 @@ while True:
 # 关闭连接
 client_socket.close()
 ```
+
+**IP address** is used to identify your device, while **port** is used to recognize which application that you should send your data to.
