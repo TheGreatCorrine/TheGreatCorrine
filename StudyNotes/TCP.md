@@ -50,4 +50,48 @@ while True:
 client_socket.close()
 ```
 
+Bilibili server side:
+```python
+import socket
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+    s.bind(("ip_address", port))
+    s.listen()
+    c, addr = s.accept()
+    with c:
+        print(addr, "connected")
+
+        while True: # can only handle one connection request
+            data = c.recv(1024)
+            if not data:
+                break
+            c.sendall(data)
+
+```
+
+### Multithreading Socket Server
+```python
+def handle_client(c, adr):
+    pass
+
+while True:
+    c, addr = s.aacept()
+
+    t.threading.Thread(target=handle_client, args=(c,adr))
+    t.start()
+```
+However, because of GIL, Python can not actually start multi threads simultaneously. Plus, it takes up extra resources.
+### `selectors` - 高级I/O复用库
+### `asyncio` - 异步socket代码
+
+```bash
+python -m http.server 8000
+```
+
 **IP address** is used to identify your device, while **port** is used to recognize which application that you should send your data to.
+It's application to application. 点对点
+There are two types of sockets: TCP and UDP.
+- TCP is reliable. If you send data to another device, it will surely receive the data 可靠传输+传输效率
+- 传输速度、负载情况、网络拥塞
+
+- TCP requires the two devices to be either the client or the server. The server will be waiting to be connected
