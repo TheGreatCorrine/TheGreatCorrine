@@ -95,3 +95,33 @@ There are two types of sockets: TCP and UDP.
 - 传输速度、负载情况、网络拥塞
 
 - TCP requires the two devices to be either the client or the server. The server will be waiting to be connected
+
+### 6.8
+写一个基础的 TCP 客户端确实只需要几十行代码，比如用 Python 的 `socket` 库，只要知道 IP 和端口，十几行就能收数据。
+但是！实际项目中，TCP链接比log+消息队列复杂很多，这是因为：
+1. 粘包/拆包
+`data = recv(1024)` 不保证是一整条消息，可能一条数据被拆成两块发过来，或者几条一起发过来；
+你得自己加协议解析（比如以 `\n` 结尾，或者用固定头部+长度字段）。
+2. 断线重连 / 心跳检测
+sigmadata 断线你要重连？自动判断“服务器没响应”？不能让你的程序“挂在那儿不动”。
+3. 线程 / 异步处理
+数据源是流式的，但你的主逻辑（异常分析、UI、日志记录）不能卡住；
+必须用线程/asyncio/Queue来做“收数据”和“处理数据”的解耦。
+4. 异常处理
+recv 报错怎么办？
+连接不上怎么办？
+数据格式不对怎么办？
+5. 真实部署环境下的 bug 难复现
+比如 TCP 服务端发过来的是乱码、时间错乱、反复断连——你重启 TCP 客户端可能还连不上
+✅ 解决办法就是封装一个“可靠的 TCP 输入模块”，**TCP本身不难，但写一个健壮的socket很难**
+
+socket is a programming interface. It helps you send/receive dataflow
+| 情况                    | 建议                                 |
+| --------------------- | ---------------------------------- |
+| sigmadata **只能用 TCP** | 就用后端跑 TCP socket 接收器，写成服务，写入数据库或内存 |
+| sigmadata **能提供日志文件** | 强烈建议你选日志输入，开发简单、容错强、调试方便           |
+| 你需要前端实时看到新数据          | 后端将 TCP/日志输入 → 推送前端（WebSocket最佳）   |
+
+> “日志文件可见、可控、可回放，适合你当前这个数据不透明、迭代频繁的早期系统；TCP 是实时但高耦合，一旦挂了你甚至连日志都拿不到。”
+
+
