@@ -123,5 +123,6 @@ socket is a programming interface. It helps you send/receive dataflow
 | 你需要前端实时看到新数据          | 后端将 TCP/日志输入 → 推送前端（WebSocket最佳）   |
 
 > “日志文件可见、可控、可回放，适合你当前这个数据不透明、迭代频繁的早期系统；TCP 是实时但高耦合，一旦挂了你甚至连日志都拿不到。”
+> 对实时性要求既然不高，既然可以接受5-10分钟的延迟，那就尽量不要用TCP，稳定简单好多以太r
 
 
