@@ -31,7 +31,7 @@ I build backend services, cloud infrastructure, and full-stack applications. My 
 </p>
 
 **Languages**  
-**`Python` `Java`** `C` `JavaScript` `TypeScript` `SQL` `HTML/CSS` `Bash`
+`Python` `Java` `C` `JavaScript` `TypeScript` `SQL` `HTML/CSS` `Bash`
 
 **Backend and Web**  
 `Spring Boot` `Node.js` `Next.js` `React` `Flask` `Django` `REST` `OpenAPI`
