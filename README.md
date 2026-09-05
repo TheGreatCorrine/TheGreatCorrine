@@ -12,8 +12,8 @@ I build backend services, cloud infrastructure, and full-stack applications. My 
 
 - **Software Engineering Intern - Platform**  *Jan 2026 – Aug 2026*  @Terminal 
 - **Software Engineer Intern - AI** *May 2025 - Aug 2025*  @BSH Home Appliances Corporation
-- **Student Software Developer** *Jan 2025 - Apr 2025* @BMO Finance Research and Trading Lab (Rotman)
-- **Software Development Intern** *Sep 2024 - Dec 2024* @Re:Pair Genomics
+- **Student Software Developer - Full Stack** *Jan 2025 - Apr 2025* @BMO Finance Research and Trading Lab (Rotman)
+- **Software Development Intern - Full Stack** *Sep 2024 - Dec 2024* @Re:Pair Genomics
 
 
 ## Stack
