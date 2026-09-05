@@ -8,8 +8,6 @@ Computer Science & Rotman Commerce Student at the University of Toronto.
 I build backend services, cloud infrastructure, and full-stack applications. My software engineering experience spans developer platforms, AI/IoT, and distributed systems.
 
 
-
-
 ## Experience
 
 - **Software Engineering Intern - Platform**  *Jan 2026 – Aug 2026*  @Terminal 
@@ -17,12 +15,6 @@ I build backend services, cloud infrastructure, and full-stack applications. My 
 - **Student Software Developer** *Jan 2025 - Apr 2025* @BMO Finance Research and Trading Lab (Rotman)
 - **Software Development Intern** *Sep 2024 - Dec 2024* @Re:Pair Genomics
 
-## Selected work
-
-- **Rotman educational trading app** — building software used by ~5,000 Rotman students (undergrad and master's) with the BMO Finance Research and Trading Lab.
-- **Internal people ops tooling** — designed payroll / HR software for Re:Pair Genomics ([HRManagement](https://github.com/TheGreatCorrine/HRManagement)).
-- **Gemiturn** — AI-assisted returns workflow, with a mock e-commerce surface for the product ([Gemiturn](https://github.com/TheGreatCorrine/Gemiturn_prod), [storefront](https://github.com/TheGreatCorrine/Mock-Ecommerce)).
-- **Dialectica** — an AI debate platform for structuring arguments ([dialectica-ai](https://github.com/TheGreatCorrine/dialectica-ai)).
 
 ## Stack
 
