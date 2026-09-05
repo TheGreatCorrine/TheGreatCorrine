@@ -1,20 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=24&pause=800&color=2990BE&vCenter=true&width=520&lines=Hi%2C+I%27m+Corrine.;CS+%2B+Rotman+Commerce+%40+UofT.;Building+at+the+intersection+of+software+and+finance.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=24&pause=800&color=2990BE&vCenter=true&width=520&lines=Hi%2C+I%27m+Corrine.;CompSci+%40+UofT.)](https://git.io/typing-svg)
 
 # Corrine Xiang
-**She/her** · 4th year, Class of 2027
+**She/her** · **4th year**, **Class of 2027** [![UofT](https://img.shields.io/badge/University%20of%20Toronto-002A5C?style=flat-square)](https://www.utoronto.ca/) [![CS](https://img.shields.io/badge/Computer%20Science-007396?style=flat-square)](https://web.cs.toronto.edu/) [![Rotman](https://img.shields.io/badge/Rotman%20Commerce-1E4D2B?style=flat-square)](https://rotmancommerce.utoronto.ca/)
 
-Computer Science (previously Rotman Commerce) at the University of Toronto.
+Computer Science & Rotman Commerce Student at the University of Toronto.
 
-I care about systems that have to be correct: data platforms, internal tools, and products used by real students and operators — not just demos.
+I build backend services, cloud infrastructure, and full-stack applications. My software engineering experience spans developer platforms, AI/IoT, and distributed systems.
 
-[![UofT](https://img.shields.io/badge/University%20of%20Toronto-002A5C?style=flat-square)](https://www.utoronto.ca/) [![CS](https://img.shields.io/badge/Computer%20Science-007396?style=flat-square)](https://web.cs.toronto.edu/) [![Rotman](https://img.shields.io/badge/Rotman%20Commerce-1E4D2B?style=flat-square)](https://rotmancommerce.utoronto.ca/)
+
+
 
 ## Experience
 
-- **Data Platform Engineering Intern** at [Terminal](https://www.terminal-api.com/) (YC S23) — telematics integrations and the data layer behind them.
-- **Software Engineer Intern** at BSH Home Appliances (North America)
-- **Software Developer** at the BMO Finance Research and Trading Lab (Rotman)
-- **Software Development Intern** at Re:Pair Genomics
+- **Platform Engineering Intern** @Terminal
+- **Software Engineer Intern** @BSH Home Appliances Corporation
+- **Student Software Developer** at the BMO Finance Research and Trading Lab (Rotman)
+- **Software Development Intern** @Re:Pair Genomics
 
 ## Selected work
 
