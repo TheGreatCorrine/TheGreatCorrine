@@ -31,7 +31,7 @@ I build backend services, cloud infrastructure, and full-stack applications. My 
 </p>
 
 **Languages**  
-`Python` `Java` `C` `JavaScript` `TypeScript` `SQL` `HTML/CSS` `Bash`
+**`Python` `Java`** `C` `JavaScript` `TypeScript` `SQL` `HTML/CSS` `Bash`
 
 **Backend and Web**  
 `Spring Boot` `Node.js` `Next.js` `React` `Flask` `Django` `REST` `OpenAPI`
@@ -40,7 +40,7 @@ I build backend services, cloud infrastructure, and full-stack applications. My 
 `AWS` (`S3` `SQS` `Lambda` `Athena` `DynamoDB` `IAM`) `GCP`
 
 **Data & Developer Tools**  
-`PostgreSQL` `MongoDB` `Redis` `Spark` `Flink` `Iceberg` `Docker` `Linux` `Git` `Figma`
+`PostgreSQL` `MongoDB` `Redis` `Spark` `Flink` `Iceberg` `Docker` `Linux` `Git` 
 
 ## Contact
 
