@@ -10,7 +10,7 @@ I build backend services, cloud infrastructure, and full-stack applications. My 
 
 ## Experience
 
-- **Software Engineering Intern - Data Infra**  *Jan 2027 – Aug 2027*  @Kinaxis
+- **Incoming Software Engineering Intern - Data Infra**  *Jan 2027 – Aug 2027*  @Kinaxis
 - **Software Engineering Intern - Platform**  *Jan 2026 – Aug 2026*  @Terminal 
 - **AI Engineering Intern** *May 2025 - Aug 2025*  @BSH Home Appliances Corporation
 - **Student Backend Developer** *Oct 2026 - present* @WiCS (Women in Computer Science)
